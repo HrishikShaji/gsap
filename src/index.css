@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+.custom-clip-path {
+	clip-path: polygon(0% 43.5%, 100% 43%, 100% 51.5%, 0% 51.5%);
+	background:red;
+}
+
+
